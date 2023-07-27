@@ -17,8 +17,9 @@ header {
     box-shadow: 0px 10px 10px black;
     border-radius: 20px;
 }
-h2{
+.book-description button{
     font-family: bebas neue;
+    text-align: left;
 }
 
 /* Estilos do conteúdo */
@@ -185,3 +186,4 @@ button{
     align-items: center;
     margin: 20px;
 }
+
