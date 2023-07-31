@@ -25,9 +25,10 @@ header {
 /* Estilos do conteúdo */
 .container {
     max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
+    margin: 10px;
+    padding: 0px;
     background-color: white;
+    align-items: center;
 }
 
 .book-image {
@@ -185,5 +186,58 @@ button{
     border: 10px 10px 10px black;
     align-items: center;
     margin: 20px;
+    
+
+}
+.imagem-wpp img{
+    max-width: 90%;
+    height: auto;
+    border: none;
+    border-radius: 5px;
+    margin: 10px 10px 10px;
+    align-items: center;
+}
+h5{
+    margin-bottom: 10px;
+    font-family: Bebas Neue;
+    word-wrap: 60px;
+    font-size: 30px;
+    text-align:center;
+}
+.intro h1{
+    color: #000000;
+    text-align: center;
+    font-size: 60px;
+    font-family: Bebas Neue;
+    
+}
+.intro h2{
+    color: #a02a2a;
+    font-size: 60px;
+    margin: none;
+    text-align: center;
+    font-family: Bebas Neue;
+}
+.book-desbuttom img{
+    max-width: 40%;
+    height: auto;
+    border: none;
+    border-radius: 5px;
+    margin: 20px 0px 60px 0px;
+    
+}
+.book-desbuttom button{
+    size: 50px ;
+    
+}
+.book-desbuttom h1{
+    font-size: 30px;
+    font-family: Bebas Neue;
+    
+}
+.book-desbuttom h2{
+    font-size: 50px;
+    font-family: Bebas Neue;
+    color: #a02a2a ;
 }
 
